@@ -1,6 +1,9 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    text-align: center;
 }
 h1{
     color: #333;
@@ -22,6 +25,9 @@ input[type="text"],input[type= "email"], textarea {
     border-radius: 3px;
 }
 input[type="submit"]{
-     background-color: #007bff; color: #FFF; padding:10px 20px ; border-radius: 3px; cursor: pointer; 
+     background-color: #007bff; color: #FFF; p
+     adding:10px 20px ; 
+     border-radius: 3px; 
+     cursor: pointer; 
     }
 input[type="submit"]:hover{ background-color: red;}
